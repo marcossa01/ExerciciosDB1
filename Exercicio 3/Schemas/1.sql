@@ -1,0 +1,1 @@
+INSERT INTO movies_db.movies (created_at, updated_at, title, rating, awards, release_date, length) VALUES (NULL, NULL, 'Filme adicionado por Marcos Sá', 10.0, 9, '2022/01/12 00:00:00', 220);

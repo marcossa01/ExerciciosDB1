@@ -1,0 +1,1 @@
+UPDATE movies_db.actors SET favorite_movie_id = 22 WHERE id > 45;

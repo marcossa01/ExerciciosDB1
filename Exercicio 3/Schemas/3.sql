@@ -1,0 +1,1 @@
+UPDATE movies_db.movies set genre_id = 14 WHERE id = 22;

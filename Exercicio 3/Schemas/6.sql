@@ -1,0 +1,1 @@
+DELETE FROM temp_movies WHERE awards < 5;

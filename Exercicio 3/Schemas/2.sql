@@ -1,0 +1,1 @@
+INSERT INTO movies_db.genres(created_at, updated_at, name, ranking, active) VALUES('2021/01/12', NULL, 'Genero Novo', 13, 1);
